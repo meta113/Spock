@@ -1,2 +1,0 @@
-# Spock
-say,hi
